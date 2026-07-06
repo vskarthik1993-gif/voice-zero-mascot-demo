@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="theme-color" content="#000000" />
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,700" rel="stylesheet" />
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico" />
+    <title>Zero Mascot — Voice States</title>
+  </head>
+
+  <body>
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <div id="root"></div>
+    <div id="crash-overlay" style="display:none; position:fixed; inset:0; background:#200; color:#f88; font:12px monospace; white-space:pre-wrap; padding:16px; z-index:99999; overflow:auto;"></div>
+    <script>
+      function showCrash(msg) {
+        var el = document.getElementById('crash-overlay')
+        el.style.display = 'block'
+        el.textContent += msg + '\n\n'
+      }
+      window.addEventListener('error', function (e) {
+        showCrash('ERROR: ' + e.message + '\n' + ((e.error && e.error.stack) || ''))
+      })
+      window.addEventListener('unhandledrejection', function (e) {
+        showCrash('UNHANDLED REJECTION: ' + (e.reason && (e.reason.stack || e.reason.message || e.reason)))
+      })
+    </script>
+  </body>
+</html>

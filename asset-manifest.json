@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/voice-zero-mascot-demo/static/css/main.d6136f46.chunk.css",
+    "main.js": "/voice-zero-mascot-demo/static/js/main.c9169d46.chunk.js",
+    "main.js.map": "/voice-zero-mascot-demo/static/js/main.c9169d46.chunk.js.map",
+    "runtime-main.js": "/voice-zero-mascot-demo/static/js/runtime-main.fcee0085.js",
+    "runtime-main.js.map": "/voice-zero-mascot-demo/static/js/runtime-main.fcee0085.js.map",
+    "static/js/2.1c5a59c3.chunk.js": "/voice-zero-mascot-demo/static/js/2.1c5a59c3.chunk.js",
+    "static/js/2.1c5a59c3.chunk.js.map": "/voice-zero-mascot-demo/static/js/2.1c5a59c3.chunk.js.map",
+    "index.html": "/voice-zero-mascot-demo/index.html",
+    "precache-manifest.9230aeda499a9cf5cc27b09168b915d7.js": "/voice-zero-mascot-demo/precache-manifest.9230aeda499a9cf5cc27b09168b915d7.js",
+    "service-worker.js": "/voice-zero-mascot-demo/service-worker.js",
+    "static/css/main.d6136f46.chunk.css.map": "/voice-zero-mascot-demo/static/css/main.d6136f46.chunk.css.map",
+    "static/js/2.1c5a59c3.chunk.js.LICENSE": "/voice-zero-mascot-demo/static/js/2.1c5a59c3.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcee0085.js",
+    "static/js/2.1c5a59c3.chunk.js",
+    "static/css/main.d6136f46.chunk.css",
+    "static/js/main.c9169d46.chunk.js"
+  ]
+}
