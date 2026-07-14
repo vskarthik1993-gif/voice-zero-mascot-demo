@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fb6f0879fdb36fe39d52c76897e9d1bb",
+    "revision": "b9116b024f3fd1698ecf1ad44d24a778",
     "url": "/voice-zero-mascot-demo/index.html"
   },
   {
-    "revision": "ce02c5bde9539ebebe48",
+    "revision": "3ce0b6fc272507ba7b65",
     "url": "/voice-zero-mascot-demo/static/css/main.ea1df5e9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voice-zero-mascot-demo/static/js/2.b87b71cf.chunk.js.LICENSE"
   },
   {
-    "revision": "ce02c5bde9539ebebe48",
-    "url": "/voice-zero-mascot-demo/static/js/main.2e06ce8f.chunk.js"
+    "revision": "3ce0b6fc272507ba7b65",
+    "url": "/voice-zero-mascot-demo/static/js/main.d1a3d771.chunk.js"
   },
   {
     "revision": "5e9c9beaa1273e21acde",

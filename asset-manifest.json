@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/voice-zero-mascot-demo/static/css/main.ea1df5e9.chunk.css",
-    "main.js": "/voice-zero-mascot-demo/static/js/main.2e06ce8f.chunk.js",
-    "main.js.map": "/voice-zero-mascot-demo/static/js/main.2e06ce8f.chunk.js.map",
+    "main.js": "/voice-zero-mascot-demo/static/js/main.d1a3d771.chunk.js",
+    "main.js.map": "/voice-zero-mascot-demo/static/js/main.d1a3d771.chunk.js.map",
     "runtime-main.js": "/voice-zero-mascot-demo/static/js/runtime-main.fcee0085.js",
     "runtime-main.js.map": "/voice-zero-mascot-demo/static/js/runtime-main.fcee0085.js.map",
     "static/js/2.b87b71cf.chunk.js": "/voice-zero-mascot-demo/static/js/2.b87b71cf.chunk.js",
     "static/js/2.b87b71cf.chunk.js.map": "/voice-zero-mascot-demo/static/js/2.b87b71cf.chunk.js.map",
     "index.html": "/voice-zero-mascot-demo/index.html",
-    "precache-manifest.82b56ea198bde7bffb9e1d48f0624dc6.js": "/voice-zero-mascot-demo/precache-manifest.82b56ea198bde7bffb9e1d48f0624dc6.js",
+    "precache-manifest.35ae49d1bd5acdefe8a3a534cc80320e.js": "/voice-zero-mascot-demo/precache-manifest.35ae49d1bd5acdefe8a3a534cc80320e.js",
     "service-worker.js": "/voice-zero-mascot-demo/service-worker.js",
     "static/css/main.ea1df5e9.chunk.css.map": "/voice-zero-mascot-demo/static/css/main.ea1df5e9.chunk.css.map",
     "static/js/2.b87b71cf.chunk.js.LICENSE": "/voice-zero-mascot-demo/static/js/2.b87b71cf.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fcee0085.js",
     "static/js/2.b87b71cf.chunk.js",
     "static/css/main.ea1df5e9.chunk.css",
-    "static/js/main.2e06ce8f.chunk.js"
+    "static/js/main.d1a3d771.chunk.js"
   ]
 }
