@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/voice-zero-mascot-demo/precache-manifest.6c66ff6a222baaa21605d44a6fabbcdc.js"
+  "/voice-zero-mascot-demo/precache-manifest.25fc1de2fbfe223ed71197f372c8a50e.js"
 );
 
 self.addEventListener('message', (event) => {
